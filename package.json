@@ -7,7 +7,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "SlavyanDesu",
+    "author": "Cnamy",
     "repository": {
         "type": "git",
         "url": "https://github.com/SlavyanDesu/BocchiBot.git"
